@@ -70,7 +70,7 @@ const default_config = {
             },
             {
               name: "emby",
-              url: "https://www.emby.stocchis.com",
+              url: "https://emby.stocchis.com",
               icon: "movie",
               icon_color: palette.green,
             },
