@@ -121,6 +121,12 @@ const default_config = {
               icon: "alert-hexagon",
               icon_color: palette.green,
             },
+            {
+              name: "netdata",
+              url: "https://app.netdata.cloud/",
+              icon: "alert-hexagon",
+              icon_color: palette.green,
+            },
           ],
         },
         {
