@@ -13,7 +13,7 @@ const default_config = {
   },
   disabled: [],
   fastlink: "https://app.raindrop.io",
-  openLastVisitedTab: true,
+  openLastVisitedTab: false,
   tabs: [
     {
       name: "dai ly",
